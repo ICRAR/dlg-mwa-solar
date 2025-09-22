@@ -1,7 +1,7 @@
 import pytest
 
-from project_name.apps import MyAppDROP
-from project_name.data import  MyDataDROP
+from dlg_mwa_solar.apps import MyAppDROP
+from dlg_mwa_solar.data import  MyDataDROP
 
 given = pytest.mark.parametrize
 

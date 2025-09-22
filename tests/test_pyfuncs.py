@@ -1,6 +1,6 @@
 import pytest
 
-from project_name.pyfuncs import my_example_multiplier
+from dlg_mwa_solar.pyfuncs import my_example_multiplier
 
 def test_my_multipler():
     """
